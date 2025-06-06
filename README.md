@@ -1,8 +1,6 @@
 # About Me
 
 
-**snehabuilds95/snehabuilds95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ---
 
 * 🔭 I’m currently working on **a UPSC Mains Self-Test Web App** that includes OCR capabilities and a customizable timer for self-evaluation.
